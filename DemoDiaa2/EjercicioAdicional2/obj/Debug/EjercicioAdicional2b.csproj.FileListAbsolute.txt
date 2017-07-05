@@ -1,0 +1,6 @@
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\DemoDiaa2\EjercicioAdicional2\bin\Debug\EjercicioAdicional2.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\DemoDiaa2\EjercicioAdicional2\obj\Debug\EjercicioAdicional2.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\DemoDiaa2\EjercicioAdicional2\obj\Debug\EjercicioAdicional2.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\DemoDiaa2\EjercicioAdicional2\bin\Debug\EjercicioAdicional2.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\DemoDiaa2\EjercicioAdicional2\bin\Debug\EjercicioAdicional2.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\DemoDiaa2\EjercicioAdicional2\obj\Debug\EjercicioAdicional2b.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio3\bin\Debug\Ejercicio3.exe
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio3\obj\Debug\Ejercicio3.exe
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio3\obj\Debug\Ejercicio3.pdb
