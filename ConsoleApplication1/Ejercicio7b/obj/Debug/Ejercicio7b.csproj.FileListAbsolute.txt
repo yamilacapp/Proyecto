@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio7b\bin\Debug\Ejercicio7b.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio7b\bin\Debug\Ejercicio7b.exe
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio7b\bin\Debug\Ejercicio7b.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio7b\obj\Debug\Ejercicio7b.exe
+c:\users\alumno\documents\visual studio 2012\Projects\ConsoleApplication1\Ejercicio7b\obj\Debug\Ejercicio7b.pdb

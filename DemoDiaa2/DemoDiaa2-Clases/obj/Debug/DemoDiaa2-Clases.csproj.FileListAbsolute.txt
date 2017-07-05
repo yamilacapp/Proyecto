@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa2\DemoDiaa2-Clases\bin\Debug\DemoDiaa2-Clases.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa2\DemoDiaa2-Clases\bin\Debug\DemoDiaa2-Clases.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa2\DemoDiaa2-Clases\bin\Debug\DemoDiaa2-Clases.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa2\DemoDiaa2-Clases\obj\Debug\DemoDiaa2-Clases.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa2\DemoDiaa2-Clases\obj\Debug\DemoDiaa2-Clases.pdb

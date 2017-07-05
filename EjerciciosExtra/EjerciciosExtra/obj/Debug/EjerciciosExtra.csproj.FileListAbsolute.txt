@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2012\Projects\EjerciciosExtra\EjerciciosExtra\bin\Debug\EjerciciosExtra.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\EjerciciosExtra\EjerciciosExtra\bin\Debug\EjerciciosExtra.exe
+c:\users\alumno\documents\visual studio 2012\Projects\EjerciciosExtra\EjerciciosExtra\bin\Debug\EjerciciosExtra.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\EjerciciosExtra\EjerciciosExtra\obj\Debug\EjerciciosExtra.exe
+c:\users\alumno\documents\visual studio 2012\Projects\EjerciciosExtra\EjerciciosExtra\obj\Debug\EjerciciosExtra.pdb

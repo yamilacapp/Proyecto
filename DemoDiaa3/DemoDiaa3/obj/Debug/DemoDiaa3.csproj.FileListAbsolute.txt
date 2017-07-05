@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa3\DemoDiaa3\bin\Debug\DemoDiaa3.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa3\DemoDiaa3\bin\Debug\DemoDiaa3.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa3\DemoDiaa3\bin\Debug\DemoDiaa3.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa3\DemoDiaa3\obj\Debug\DemoDiaa3.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa3\DemoDiaa3\obj\Debug\DemoDiaa3.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoDiaa3\DemoDiaa3\obj\Debug\DemoDiaa3.pdb
